@@ -11,6 +11,7 @@ Django Todo App is a simple yet powerful web application designed to help users 
 - Mark tasks as complete or pending
 - View a list of all tasks with status indicators
 - Responsive user interface with clear task management flow
+- Priority: Dockerized setup shows how Docker runs the Django application using containers.
 
 ## Requirements
 
